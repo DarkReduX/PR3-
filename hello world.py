@@ -1,2 +1,2 @@
-print("Hello, fqerpfkerqoipfjireo World!")
+print("Hello, fqerfojewogvjewoifjewroijoipfkerqoipfjireo World!")
 print("Яна цист")
